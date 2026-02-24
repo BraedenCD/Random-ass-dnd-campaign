@@ -1,0 +1,1 @@
+Convicts who have been sentenced to hard labor on the underside are housed in two rectangular, windowless buildings connected to the Citadel by narrow walkways. When they're not out working the fields, prisoners are kept behind locked doors in the barracks and left to their own devices.

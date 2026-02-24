@@ -1,0 +1,1 @@
+Quartering all five companies of the Royal Guard, the barracks is a combination living area, drill field, and parade ground. At any time, one company is standing palace duty, two more are assigned garrison duty, and the remaining companies are off-duty. Many of the Guardsmen have families in the Lower City.

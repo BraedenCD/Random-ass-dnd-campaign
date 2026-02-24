@@ -1,0 +1,1 @@
+A typical tavern of the Middle City, the Golden Helm is described, in detail, as a sample tavern setting. Feel free to use the floor plan and the description for any particular inn and ale house the player characters may wander into. The Golden Helm is located in the back alley of the block between Tower Street and Mizzenmast Street, a relatively middle-class area of the city.

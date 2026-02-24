@@ -1,0 +1,1 @@
+The Bralian chapter of the Tenth Pit is led by none other than [[Lord Diadan Cartan]], the prince’s aide. Doubtless he plans to betray his black masters once he gains the throne.

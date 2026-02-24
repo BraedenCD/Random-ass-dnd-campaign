@@ -1,0 +1,1 @@
+This comfortable villa occupies one of the finest pieces of land on Bral, commanding a marvelous view of the Trailing Edge. [[Princess Ellana Cozar|Princess Ellana Cozar]], the widow of Prince Calar, lives here with her son, [[Prince Aric Calar]]. They maintain a small, subdued household and receive few visitors. Princess Ellana is supported at the expense of the crown.

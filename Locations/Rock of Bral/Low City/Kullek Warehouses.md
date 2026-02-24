@@ -1,0 +1,1 @@
+Warehouses of [[Morgan Kullek]], whose [[House Kullek|estate]] is found in the High City. Due to his sour disposition, these buildings would be more heavily guarded than the neighboring warehouses.

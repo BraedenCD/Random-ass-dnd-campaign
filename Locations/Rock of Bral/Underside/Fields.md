@@ -1,0 +1,1 @@
+The fruits, vegetables, and grains harvested from the fields on the underside keep the Rock's occupants well fed without the need for imported food-stuffs. The planting, cultivating, and harvesting of the produce are performed by convicts working off their sentences. The work of the prisoners is loosely supervised by bands of army regulars.

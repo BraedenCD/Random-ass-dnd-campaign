@@ -1,0 +1,1 @@
+One of the largest and busiest taverns of Bral is the Edge, an establishment catering to starfarers. It is considered fashionable for the elite to gather here, as the Edge is known for its dangerous and colorful clientele. Some rogues, con men, and professional duelists earn their living from this wealthy crowd. The proprietor maintains a quiet force of six talented bouncers.

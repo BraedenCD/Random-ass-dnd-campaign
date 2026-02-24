@@ -1,0 +1,1 @@
+The vanes, extending out from four towers on the trailing side of the asteroid, are enormous sails that can be moved to generate a disturbance in the Rock's air envelope, causing the Rock to rotate or turn in a certain direction if the need presents itself. If no other reason arises, the vanes are adjusted once every few months to ensure they are in good operating condition.

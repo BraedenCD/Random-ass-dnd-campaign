@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing.md",
+                "file": "Locations/Rock of Bral/Bralian Underside Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing"
+              "title": "Bralian Underside Map"
             }
           }
         ]
@@ -181,12 +181,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "4ed4387516654368",
   "lastOpenFiles": [
+    "Locations/Rock of Bral/Bralian Topside Map.md",
+    "Locations/Rock of Bral/Bralian Underside Map.md",
+    "Characters/Rock of Bral/High City/Basa Lianin.md",
+    "Attatchments/Rock of Bral Map.png",
     "README.md",
-    "testing.md"
+    "zTemplates/Untitled.md",
+    "zTemplates",
+    "Attatchments/Rock of Bral Underside.jpg",
+    "Attatchments",
+    "Locations/Rock of Bral/Middle City/Yarnak's Dwarven Arms.md",
+    "Locations/Rock of Bral/Middle City/Town Apothecary.md",
+    "Locations/Rock of Bral/Middle City/Valkan's Legion.md",
+    "Locations/Rock of Bral/Middle City/The Smith's Coster.md",
+    "Locations/Rock of Bral/Middle City/The Royal Exchequer.md",
+    "Locations/Rock of Bral/Middle City/The Raised Cup.md",
+    "Locations/Rock of Bral/Middle City/The White Galleon.md",
+    "Locations/Rock of Bral/Middle City/The Longs Fangs.md",
+    "Locations/Rock of Bral/Middle City/The Edge.md",
+    "Locations/Rock of Bral/Middle City/The Honored Mages' Guild of Bral.md",
+    "Locations/Rock of Bral/Middle City/Red Mask Guildhouse.md",
+    "Locations/Rock of Bral/Middle City/Sindiath Line.md",
+    "Locations/Rock of Bral/Middle City/The Golden Helm.md",
+    "Locations/Rock of Bral/Middle City/The Donjon.md",
+    "Locations/Rock of Bral/Middle City/The Bralian Mercer.md",
+    "Locations/Rock of Bral/Middle City/Temple of Ptah.md",
+    "Locations/Rock of Bral/Middle City/Polyglot Shrines.md",
+    "Locations/Rock of Bral/Middle City/Planar Church of the Seven Heavens.md",
+    "Locations/Rock of Bral/Middle City/Middle Magistrate.md",
+    "Locations/Rock of Bral/Middle City/Pantheist Temple of Tyr.md",
+    "Locations/Rock of Bral/Middle City/Morweg's Arms and Armor.md",
+    "Locations/Rock of Bral/Underside",
+    "Locations/Rock of Bral/Middle City",
+    "Locations/Rock of Bral/Low City",
+    "Locations/Rock of Bral/High City",
+    "Locations/Rock of Bral",
+    "Locations",
+    "Characters/Rock of Bral/Middle City",
+    "Characters/Rock of Bral/Underside"
   ]
 }

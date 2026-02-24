@@ -1,0 +1,1 @@
+A slender arch of stone spanning [[Lake Bral]], the Stonebridge is a natural formation whose upper surface was levelled and filled to support a roadway to the Royal Enclosure. From the road it is almost 250 feet to the surface of the lake, at this time. Lake Bral is due for refilling soon. When it is full, the drop is only about 150 feet. A small stone parapet lines the roadway.

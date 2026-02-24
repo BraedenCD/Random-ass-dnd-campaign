@@ -1,0 +1,1 @@
+[[Lord Ostric]] is a tall, regal man showing his seventy years. Ostric is the Chamberlain of the [[Royal Palace|palace]]. He is responsible for scheduling [[Prince Andru]]’s audiences and for observing the formalities of the court. He hides a keen mind behind a facade of musty decorum.
