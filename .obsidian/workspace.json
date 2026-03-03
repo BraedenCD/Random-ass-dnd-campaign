@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Rock of Bral/Bralian Underside Map.md",
+                "file": "zTemplates/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bralian Underside Map"
+              "title": "Untitled"
             }
           }
         ]
@@ -187,11 +187,12 @@
   },
   "active": "4ed4387516654368",
   "lastOpenFiles": [
-    "Locations/Rock of Bral/Bralian Topside Map.md",
+    "README.md",
+    "testing.md",
     "Locations/Rock of Bral/Bralian Underside Map.md",
+    "Locations/Rock of Bral/Bralian Topside Map.md",
     "Characters/Rock of Bral/High City/Basa Lianin.md",
     "Attatchments/Rock of Bral Map.png",
-    "README.md",
     "zTemplates/Untitled.md",
     "zTemplates",
     "Attatchments/Rock of Bral Underside.jpg",
@@ -216,7 +217,6 @@
     "Locations/Rock of Bral/Middle City/Planar Church of the Seven Heavens.md",
     "Locations/Rock of Bral/Middle City/Middle Magistrate.md",
     "Locations/Rock of Bral/Middle City/Pantheist Temple of Tyr.md",
-    "Locations/Rock of Bral/Middle City/Morweg's Arms and Armor.md",
     "Locations/Rock of Bral/Underside",
     "Locations/Rock of Bral/Middle City",
     "Locations/Rock of Bral/Low City",
